@@ -1,4 +1,4 @@
-# Phoebe + cimpany page
+# Phoebe + Company page
 
 This website is still in progress.
 
